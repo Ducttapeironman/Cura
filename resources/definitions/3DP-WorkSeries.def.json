@@ -1,19 +1,19 @@
 {
     "version": 2,
-    "name": "Custom FFF printer",
+    "name": "3D Platform WorkSeries 200-300",
     "inherits": "fdmprinter",
     "metadata": {
         "visible": true,
-        "author": "Ultimaker",
-        "manufacturer": "Custom",
+        "author": "3D Platform",
+        "manufacturer": "3D Platform",
         "file_formats": "text/x-gcode",
         "has_materials": true,
         "machine_extruder_trains":
         {
-            "0": "custom_extruder_1",
-            "1": "custom_extruder_2",
-            "2": "custom_extruder_3",
-            "3": "custom_extruder_4",
+            "0": "HFA",
+            "1": "HFE 300",
+            "2": "Volcano",
+            "3": "Super Volcano",
             "4": "custom_extruder_5",
             "5": "custom_extruder_6",
             "6": "custom_extruder_7",
